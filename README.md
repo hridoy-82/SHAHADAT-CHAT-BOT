@@ -1,19 +1,19 @@
 ---------
 
-### —͟͟͞͞𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓  𝐅𝐎𝐑𝐊  🌺
+### 𝙆𝙖𝙜𝙪𝙮𝙖 Ō𝙩𝙨𝙪𝙩𝙨𝙪𝙠𝙞 🌺
 
 ❖ **`A Messenger Multi Device Bot To Take Your Messenger To Another Level!`** 
 
 
 
 Assalamualaikum Everyone!  
-**Welcome to My SHAHADAT CHAT BOT Fork!**
+**Welcome to My 𝐇𝐑𝐈𝐃𝐎𝐘 𝐇𝐎𝐒𝐒𝐄𝐍 Fork!**
 
-![Box-shaped Image](https://i.imgur.com/u7VnPzH.png)
+![Box-shaped Image](https://i.imgur.com/0IKTM64.jpeg)
 
 <p align="center" style="animation: glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <span style="font-size: 24px; font-weight: bold;">SHAHADAT CHAT BOT</span><br>
-  <span> Develop By SHAHADAT SAHU</span>
+  <span style="font-size: 24px; font-weight: bold;">𝙆𝙖𝙜𝙪𝙮𝙖 Ō𝙩𝙨𝙪𝙩𝙨𝙪𝙠𝙞</span><br>
+  <span> Develop By Hridoy Hossen</span>
 </p>
 
 
@@ -81,70 +81,18 @@ Play 20+ fun games directly in messenger, no installation hassle!
 Surprise your friends with hundreds of fun commands!  
 ___
 
-<div style="max-width: 500px; margin: auto; font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
-
-  <h2 style="text-align: center; margin-bottom: 30px;">How to Use These Platforms</h2>
-
-  <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-    <img src="https://img.icons8.com/color/48/000000/replit.png" alt="Replit" style="margin-right: 20px; flex-shrink: 0;" />
-    <div>
-      <h3 style="margin: 0 0 8px;">Replit</h3>
-      <p style="margin: 0;">
-        Replit is an online coding environment that lets you write, run, and test code directly from your browser without any setup.  
-        Simply sign up for a free account, create a new project (called a “Repl”), and start coding in languages like JavaScript, Python, C++, and many more.  
-        It’s perfect for quick prototyping, learning programming, or collaborating with others in real-time.  
-        You can also host simple web apps and share your projects with a public URL instantly.
-      </p>
-    </div>
-  </div>
-
-  <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-    <img src="https://img.icons8.com/fluency/48/000000/cloud.png" alt="Render" style="margin-right: 20px; flex-shrink: 0;" />
-    <div>
-      <h3 style="margin: 0 0 8px;">Render</h3>
-      <p style="margin: 0;">
-        Render is a cloud hosting platform that allows you to deploy websites, APIs, and applications easily without worrying about server management.  
-        After developing your app locally or on Replit, you can push your code to Render for continuous deployment.  
-        It supports popular frameworks, automatic SSL, custom domains, and background workers.  
-        This platform is ideal for developers who want hassle-free hosting with scalable resources.
-      </p>
-    </div>
-  </div>
-
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" style="margin-right: 20px; flex-shrink: 0;" />
-    <div>
-      <h3 style="margin: 0 0 8px;">GitHub</h3>
-      <p style="margin: 0;">
-        GitHub is a web-based platform for version control and collaborative code management using Git.  
-        It lets you store your code repositories securely, track changes, and collaborate with other developers through pull requests and issues.  
-        GitHub also supports project documentation via README files and wikis, and it integrates with many CI/CD tools to automate workflows.  
-        Use GitHub to manage your projects efficiently and share your code with the developer community.
-      </p>
-    </div>
-  </div>
-
-</div>
-
-
-
-
----
-
-
-
 
 ## 👨‍💻 **ABOUT THE DEVELOPER**  
   
-**Name:** **`SHAHADAT ISLAM`**  
-**Nice Name:** **`SA HU`**  
+**Name:** **`Hridoy Hossen`**  
+**Nice Name:** **`Kakashi`**  
 **Profession:** **`STUDENT & CHATBOT DEVELOPER`**  
-**Location:** **`KHAGRACHARI, BANGLADESH`**  
+**Location:** **`Jashore, BANGLADESH`**  
 
 ### 📞 **CONTACT INFORMATION**  
-- **WhatsApp:** **[01882 333052](https://wa.me/+8801882333052)**  
-- **Facebook:** **[Facebook ID](https://facebook.com/100001039692046)**  
-- **Messenger:** **[Message Me](https://m.me/100001039692046)**  
+- **WhatsApp:** **[01744954836](https://wa.me/+8801744954836)**  
+- **Facebook:** **[Facebook ID](https://facebook.com/100048786044500)**  
+- **Messenger:** **[Message Me](https://m.me/100048786044500)**  
 
 ### 🚀 **DEVELOPMENT APPROACH**  
 - 💻 **Copy-paste techniques with customizations**  
@@ -165,27 +113,18 @@ If you need any help, you can contact the admin.
 Please do not disturb the admin unless you have a special need. Thank you! 
 
 <p align="center">
-  <a href="https://wa.me/+8801882333052?text=Assalamualaikum%20Admin%20SHAHADAT%20SAHU%20Need%20Help%20Please%20Brother%20🫶">
+  <a href="https://wa.me/+8801744954836?text=Assalamualaikum%20Admin%20Hridoy%20Hossen%20Need%20Help%20Please%20Brother%20🫶">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://m.me/100001039692046">
+  <a href="https://m.me/100048786044500>
     <img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
   </a>
 </p>
 
 ---
 
-## ✨🌟 Special Thanks 🌟✨
-
-- 🚀 **Cyber Bot Team**  
-- 🧙‍♂️ **Ullash (Owner Cyber Bot Team)**
-- 🛡️ **Sujon (Admin Cyber Bot Team)**
-- 🎓 **Grandpa EJ (Owner Grandpa Academy)** 
-
----
-
-💖 **Thank You For Choosing 𝗦𝗵𝗮𝗵𝗮𝗱𝗮𝘁 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁!**  
-🗓️ *Release Date:* `11/08/2025 at 02:00`  
+💖 **Thank You For Choosing 𝙆𝙖𝙜𝙪𝙮𝙖 Ō𝙩𝙨𝙪𝙩𝙨𝙪𝙠𝙞**  
+🗓️ *Release Date:* `13/12/2024 at 02:00`  
 ⭐ **Please don't forget to give a star after forking! It really helps!**
 
 ---
@@ -195,11 +134,8 @@ Please do not disturb the admin unless you have a special need. Thank you!
 </p>
 
 <p align="center">
-  <a href="https://github.com/shahadat-sahu"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"></a>
-  <a href="https://wa.me/+8801882333052"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
-  <a href="https://facebook.com/100001039692046"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook"></a>
-  <a href="https://t.me/+8EtzLXVG-REwYTM1"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"></a>
-  <a href="https://youtube.com/@cyberbotcommunity"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"></a>
-</p>
+  <a href="https://github.com/timeless-hridoy"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"></a>
+  <a href="https://wa.me/+8801744954836"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
+  <a href="https://facebook.com/100048786044500"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook"></a>
 
-**I hope you enjoy my fork! Thank you for supporting the cyber chat bot community!**
+**I hope you enjoy my fork! Thank you for supporting 𝙆𝙖𝙜𝙪𝙮𝙖 Ō𝙩𝙨𝙪𝙩𝙨𝙪𝙠𝙞 bot community!**
