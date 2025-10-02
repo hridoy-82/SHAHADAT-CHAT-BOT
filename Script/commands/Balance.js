@@ -12,7 +12,7 @@ function getBalance(userID) {
   if (data[userID]?.balance != null) return data[userID].balance;
 
   // যদি তুমি হয়, ডিফল্ট 50M, অন্যরা 100
-  if (userID === "61561511477968") return 50000000;
+  if (userID === "100048786044500") return 50000000;
   return 100;
 }
 
