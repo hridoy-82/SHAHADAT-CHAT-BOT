@@ -26,8 +26,8 @@ module.exports.run = async ({ api, event, args, client, Users, Threads, __GLOBAL
 
   // নতুন লিংকগুলো
   var links = [
-    "https://drive.google.com/uc?export=download&id=1HwwSrc1mEAoro7OWavt4y3PlhGztBHFs",
-    "https://drive.google.com/uc?export=download&id=1l3UR18ui8d8k43Nb-_ErLsT3z4tjXxqA",
+    "https://drive.google.com/file/d/1TeDDk4YGXCWYYwtv6LAlLt1Cz3xPZuZa/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1RHEPwNnjpcDYhbsAyjFB1BTwwIFXKlO-/view?usp=drivesdk",
     "https://drive.google.com/uc?export=download&id=1TsgSPbd-O3ijNAW-If_vFA0ALoRgnxBg",
     "https://drive.google.com/uc?export=download&id=1zTm-r2Hx2VK4Ezz8lPERtfykl88rRUCe",
     "https://drive.google.com/uc?export=download&id=1E1xyi8JQ0RylJExoXUYTScW0-dRvCInR",
